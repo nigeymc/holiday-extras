@@ -4,6 +4,8 @@
 
 > ![mockup](https://github.com/holidayextras/recruitment-tasks/blob/master/flickr-mockup.png)
 
+App contains the development code only. Some basic testing is included. I have also added a search input component for searching photo tags.
+
 ### `yarn start`
 
 Runs the app in the development mode.\
