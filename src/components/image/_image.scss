@@ -1,0 +1,12 @@
+.card__image-container {
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.image-container__overflow {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}

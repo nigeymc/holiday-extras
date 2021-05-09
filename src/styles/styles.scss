@@ -1,0 +1,14 @@
+// Global CSS
+@import "./global.scss";
+@import "./app.scss";
+
+// Components
+@import "../components/photoCard/photoCard";
+@import "../components/image/image";
+@import "../components/photoDescription/photoDescription";
+@import "../components/photoTitle/photoTitle";
+@import "../components/photoTags/photoTags";
+@import "../components/loadingSpinner/loadingSpinner";
+@import "../components/searchInput/searchInput";
+
+

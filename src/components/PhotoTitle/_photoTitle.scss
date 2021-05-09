@@ -1,0 +1,15 @@
+.card__title {
+    padding: 1rem 0 0.5em;
+
+    .title__primary {
+        color: #3139FF;
+        font-size: 0.95em;
+        text-decoration: underline;
+        word-wrap: break-word;
+    }
+
+    &--byLine {
+        color: none;
+        font-size: 0.9em;
+    }
+}
